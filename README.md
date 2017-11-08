@@ -1,0 +1,2 @@
+# kartojimas
+viso kurso kartojimas
